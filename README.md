@@ -3,6 +3,8 @@
 ##What?
 OnePlus logo glyph created in [Sketch](https://www.sketchapp.com/) and traced from the original found on [oneplus.net](https://oneplus.net/press-resources).
 
+![OnePlus Logo](https://cdn.rawgit.com/torharrington/oneplus-logo/f3f18be3/Oneplus%20Logo.png)
+
 Shared with the [Sketch App Sources Community](https://www.sketchappsources.com/free-source/2314-oneplus-vector-logo-sketch-freebie-resource.html)
 
 If you don't have [Sketch](https://www.sketchapp.com/) I've included a hi-res export PNG file which you can also use.
